@@ -1,0 +1,54 @@
+
+.image_container {
+    display:inline-block;
+    border: 1px solid rgb(180, 179, 179);
+    margin:5px;
+    
+}
+.image_container .discription {
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.description{
+    text-align: center;
+}
+.image_container:hover{
+   border: 1px solid rgb(180, 179, 179);
+
+}
+.blog{
+    background-color: rgb(12, 226, 154);
+    ;
+    font-size: 20px;
+    font-style: italic;
+    border: 10px solid rgb(70, 6, 6);
+    border-radius: 10px;
+    margin-top: 10px;
+    text-align: justify;
+    padding: 10px;
+   
+}
+h3{
+    text-decoration: underline;
+    font-size: 30px;
+}
+/*#but {
+  background-color: rgb(12, 30, 226);
+  color: white;
+  font-size: 18px;
+  font-style: italic;
+  border-radius: 8px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#but:hover {
+  background-color: rgb(8, 20, 180);
+}*/
+
+
+
